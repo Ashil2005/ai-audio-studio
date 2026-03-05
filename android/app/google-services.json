@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213684503300",
+    "project_id": "ai-audio-studio-22f74",
+    "storage_bucket": "ai-audio-studio-22f74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213684503300:android:a8485cb002368d12b18651",
+        "android_client_info": {
+          "package_name": "com.pocketaudio.audio_studio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213684503300-4dk2neappe12bh7ld277hd9lhkuncmda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pocketaudio.audio_studio",
+            "certificate_hash": "f95a3d6eece57101e3b799eef883df9b4a9b66c5"
+          }
+        },
+        {
+          "client_id": "213684503300-uqpbo5ndph1mr18irme5tegmgc07677e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvF_F8gbt1bYCmQ1BF5eZT3OUUMWGgG0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213684503300-uqpbo5ndph1mr18irme5tegmgc07677e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

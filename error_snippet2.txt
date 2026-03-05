@@ -1,0 +1,140 @@
+[2810] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2811] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2812] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2813] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2814] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2815] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2816] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2817] [        ] Kotlin source files: C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\kotlin\com\csdcorp\speech_to_text\SpeechToTextPlugin.kt
+[2818] [        ] Java source files:
+[2819] [        ] Script source files:
+[2820] [        ] Script file extensions:
+[2821] [        ] Using Kotlin/JVM incremental compilation
+[2822] [        ] [KOTLIN] Kotlin compilation 'jdkHome' argument: null
+[2823] [        ] Options for KOTLIN DAEMON: IncrementalCompilationOptions(super=CompilationOptions(compilerMode=INCREMENTAL_COMPILER, targetPlatform=JVM, reportCategories=[0, 3], reportSeverity=2, requestedCompilationResults=[0], kotlinScriptExtensions=[]), sourceChanges=org.jetbrains.kotlin.buildtools.api.SourcesChanges$Unknown@425a606f, classpathChanges=NotAvailableForNonIncrementalRun, workingDir=A:\fluter\audio_studio\build\speech_to_text\kotlin\compileDebugKotlin\cacheable, multiModuleICSettings=MultiModuleICSettings(buildHistoryFile=A:\fluter\audio_studio\build\speech_to_text\kotlin\compileDebugKotlin\local-state\build-history.bin, useModuleDetection=true), icFeatures=IncrementalCompilationFeatures(usePreciseJavaTracking=true, withAbiSnapshot=false, preciseCompilationResultsBackup=true, keepIncrementalCompilationCachesInMemory=true, enableUnsafeIncrementalCompilationForMultiplatform=false, enableMonotonousIncrementalCompileSetExpansion=true), outputFiles=[A:\fluter\audio_studio\build\speech_to_text\tmp\kotlin-classes\debug, A:\fluter\audio_studio\build\speech_to_text\kotlin\compileDebugKotlin\cacheable, A:\fluter\audio_studio\build\speech_to_text\kotlin\compileDebugKotlin\local-state])
+[2824] [        ] Finished executing kotlin compiler using DAEMON strategy
+[2825] [+1783 ms] > Task :app:configureCMakeDebug[x86_64]
+[2826] [        ] Caching disabled for task ':app:configureCMakeDebug[x86_64]' because:
+[2827] [        ]   Build cache is disabled
+[2828] [        ]   Caching has been disabled for the task
+[2829] [        ] Task ':app:configureCMakeDebug[x86_64]' is not up-to-date because:
+[2830] [        ]   Task.upToDateWhen is false.
+[2831] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : Start JSON generation. Platform version: 24 min SDK version: x86_64
+[2832] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : rebuilding JSON A:\fluter\audio_studio\build\.cxx\debug\56111c1l\x86_64\android_gradle_build.json due to:
+[2833] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : - no fingerprint file, will remove stale configuration folder
+[2834] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : removing stale contents from 'A:\fluter\audio_studio\build\.cxx\debug\56111c1l\x86_64'
+[2835] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : created folder 'A:\fluter\audio_studio\build\.cxx\debug\56111c1l\x86_64'
+[2836] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : executing cmake @echo off
+[2837] [        ] "C:\\Users\\ashil\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+[2838] [        ]   "-HC:\\Users\\ashil\\Downloads\\flutter_windows_3.27.4-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\scripts" ^
+[2839] [        ]   "-DCMAKE_SYSTEM_NAME=Android" ^
+[2840] [        ]   "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+[2841] [        ]   "-DCMAKE_SYSTEM_VERSION=24" ^
+[2842] [        ]   "-DANDROID_PLATFORM=android-24" ^
+[2843] [        ]   "-DANDROID_ABI=x86_64" ^
+[2844] [        ]   "-DCMAKE_ANDROID_ARCH_ABI=x86_64" ^
+[2845] [        ]   "-DANDROID_NDK=C:\\Users\\ashil\\AppData\\Local\\Android\\sdk\\ndk\\28.2.13676358" ^
+[2846] [        ]   "-DCMAKE_ANDROID_NDK=C:\\Users\\ashil\\AppData\\Local\\Android\\sdk\\ndk\\28.2.13676358" ^
+[2847] [        ]   "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\ashil\\AppData\\Local\\Android\\sdk\\ndk\\28.2.13676358\\build\\cmake\\android.toolchain.cmake" ^
+[2848] [        ]   "-DCMAKE_MAKE_PROGRAM=C:\\Users\\ashil\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+[2849] [        ]   "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=A:\\fluter\\audio_studio\\build\\app\\intermediates\\cxx\\debug\\56111c1l\\obj\\x86_64" ^
+[2850] [        ]   "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=A:\\fluter\\audio_studio\\build\\app\\intermediates\\cxx\\debug\\56111c1l\\obj\\x86_64" ^
+[2851] [        ]   "-BA:\\fluter\\audio_studio\\build\\.cxx\\debug\\56111c1l\\x86_64" ^
+[2852] [        ]   -GNinja ^
+[2853] [        ]   -Wno-dev ^
+[2854] [        ]   --no-warn-unused-cli ^
+[2855] [        ]   "-DCMAKE_BUILD_TYPE=debug"
+[2856] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : @echo off
+[2857] [        ] "C:\\Users\\ashil\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+[2858] [        ]   "-HC:\\Users\\ashil\\Downloads\\flutter_windows_3.27.4-stable\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\scripts" ^
+[2859] [        ]   "-DCMAKE_SYSTEM_NAME=Android" ^
+[2860] [        ]   "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+[2861] [        ]   "-DCMAKE_SYSTEM_VERSION=24" ^
+[2862] [        ]   "-DANDROID_PLATFORM=android-24" ^
+[2863] [        ]   "-DANDROID_ABI=x86_64" ^
+[2864] [        ]   "-DCMAKE_ANDROID_ARCH_ABI=x86_64" ^
+[2865] [        ]   "-DANDROID_NDK=C:\\Users\\ashil\\AppData\\Local\\Android\\sdk\\ndk\\28.2.13676358" ^
+[2866] [        ]   "-DCMAKE_ANDROID_NDK=C:\\Users\\ashil\\AppData\\Local\\Android\\sdk\\ndk\\28.2.13676358" ^
+[2867] [        ]   "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\ashil\\AppData\\Local\\Android\\sdk\\ndk\\28.2.13676358\\build\\cmake\\android.toolchain.cmake" ^
+[2868] [        ]   "-DCMAKE_MAKE_PROGRAM=C:\\Users\\ashil\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+[2869] [        ]   "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=A:\\fluter\\audio_studio\\build\\app\\intermediates\\cxx\\debug\\56111c1l\\obj\\x86_64" ^
+[2870] [        ]   "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=A:\\fluter\\audio_studio\\build\\app\\intermediates\\cxx\\debug\\56111c1l\\obj\\x86_64" ^
+[2871] [        ]   "-BA:\\fluter\\audio_studio\\build\\.cxx\\debug\\56111c1l\\x86_64" ^
+[2872] [        ]   -GNinja ^
+[2873] [        ]   -Wno-dev ^
+[2874] [        ]   --no-warn-unused-cli ^
+[2875] [        ]   "-DCMAKE_BUILD_TYPE=debug"
+[2876] [        ] Starting process 'command 'C:\Users\ashil\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe''. Working directory: A:\fluter\audio_studio\android\app Command: C:\Users\ashil\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe -HC:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts -DCMAKE_SYSTEM_NAME=Android -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -DCMAKE_SYSTEM_VERSION=24 -DANDROID_PLATFORM=android-24 -DANDROID_ABI=x86_64 -DCMAKE_ANDROID_ARCH_ABI=x86_64 -DANDROID_NDK=C:\Users\ashil\AppData\Local\Android\sdk\ndk\28.2.13676358 -DCMAKE_ANDROID_NDK=C:\Users\ashil\AppData\Local\Android\sdk\ndk\28.2.13676358 -DCMAKE_TOOLCHAIN_FILE=C:\Users\ashil\AppData\Local\Android\sdk\ndk\28.2.13676358\build\cmake\android.toolchain.cmake -DCMAKE_MAKE_PROGRAM=C:\Users\ashil\AppData\Local\Android\Sdk\cmake\3.22.1\bin\ninja.exe -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=A:\fluter\audio_studio\build\app\intermediates\cxx\debug\56111c1l\obj\x86_64 -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=A:\fluter\audio_studio\build\app\intermediates\cxx\debug\56111c1l\obj\x86_64 -BA:\fluter\audio_studio\build\.cxx\debug\56111c1l\x86_64 -GNinja -Wno-dev --no-warn-unused-cli -DCMAKE_BUILD_TYPE=debug
+[2877] [        ] Successfully started process 'command 'C:\Users\ashil\AppData\Local\Android\Sdk\cmake\3.22.1\bin\cmake.exe''
+[2878] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : Received process result: 0
+[2879] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : A:\fluter\audio_studio\build\.cxx\debug\56111c1l\x86_64\compile_commands.json.bin existed but not A:\fluter\audio_studio\build\.cxx\debug\56111c1l\x86_64\compile_commands.json
+[2880] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : done executing cmake
+[2881] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : JSON generation completed without problems
+[2882] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|x86_64 : Writing build model to A:\fluter\audio_studio\build\app\intermediates\cxx\debug\56111c1l\logs\x86_64\build_model.json
+[2883] [ +108 ms] Build 6a24c133-d237-4d9c-b0d5-2dc5d4d6a5e2 is closed
+[2884] [        ] [Incubating] Problems report is available at: file:///A:/fluter/audio_studio/build/reports/problems/problems-report.html
+[2885] [        ] Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+[2886] [        ] You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+[2887] [        ] For more on this, please refer to https://docs.gradle.org/8.14/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+[2888] [        ] 262 actionable tasks: 10 executed, 252 up-to-date
+[2889] [        ] Watched directory hierarchies: [C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle, A:\fluter\audio_studio\android]
+[2890] [  +83 ms] Running Gradle task 'assembleDebug'... (completed in 6.2s)
+[2891] [  +80 ms] "flutter apk" took 7,327ms.
+[2892] [        ] Running 1 shutdown hook
+[2893] [   +1 ms] Shutdown hooks complete
+[2894] [ +276 ms] exiting with code 1
+[2895] 
+[2896] [        ] e: file:///C:/Users/ashil/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/kotlin/com/csdcorp/speech_to_text/SpeechToTextPlugin.kt:37:48 Unresolved reference 'Registrar'.
+[2897] [        ] e: file:///C:/Users/ashil/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/kotlin/com/csdcorp/speech_to_text/SpeechToTextPlugin.kt:139:37 Unresolved reference 'Registrar'.
+[2898] [        ] e: file:///C:/Users/ashil/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/kotlin/com/csdcorp/speech_to_text/SpeechToTextPlugin.kt:141:54 Unresolved reference 'activity'.
+[2899] [        ] e: file:///C:/Users/ashil/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/kotlin/com/csdcorp/speech_to_text/SpeechToTextPlugin.kt:142:23 Unresolved reference 'addRequestPermissionsResultListener'.
+[2900] [        ] e: file:///C:/Users/ashil/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/kotlin/com/csdcorp/speech_to_text/SpeechToTextPlugin.kt:143:55 Unresolved reference 'context'.
+[2901] [        ] e: file:///C:/Users/ashil/AppData/Local/Pub/Cache/hosted/pub.dev/speech_to_text-6.6.2/android/src/main/kotlin/com/csdcorp/speech_to_text/SpeechToTextPlugin.kt:143:76 Unresolved reference 'messenger'.
+[2902] [        ] FAILURE: Build failed with an exception.
+[2903] [        ] * What went wrong:
+[2904] [        ] Execution failed for task ':speech_to_text:compileDebugKotlin'.
+[2905] [        ] > A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+[2906] [        ]    > Compilation error. See log for more details
+[2907] [        ] * Try:
+[2908] [        ] > Run with --debug option to get more log output.
+[2909] [        ] > Run with --scan to get full insights.
+[2910] [        ] > Get more help at https://help.gradle.org.
+[2911] [        ] * Exception is:
+[2912] [        ] org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':speech_to_text:compileDebugKotlin'.
+[2913] [        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:130)
+[2914] [        ] 	at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:293)
+[2915] [        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:128)
+[2916] [        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+[2917] [        ] 	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:41)
+[2918] [        ] 	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+[2919] [        ] 	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+[2920] [        ] 	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+[2921] [        ] 	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+[2922] [        ] 	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+[2923] [        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+[2924] [        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+[2925] [        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+[2926] [        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:210)
+[2927] [        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:205)
+[2928] [        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:67)
+[2929] [        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:60)
+[2930] [        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:167)
+[2931] [        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:60)
+[2932] [        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:54)
+[2933] [        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+[2934] [        ] 	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+[2935] [        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+[2936] [        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+[2937] [        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+[2938] [        ] 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:85)
+[2939] [        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+[2940] [        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+[2941] [        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+[2942] [        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+[2943] [        ] 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+[2944] [        ] 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:48)
+[2945] [        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+[2946] [        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+[2947] [        ] 	at java.base/java.lang.Thread.run(Thread.java:840)
+[2948] [        ] Caused by: org.gradle.workers.internal.DefaultWorkerExecutor$WorkExecutionException: A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+[2949] [        ] 	at org.gradle.workers.internal.DefaultWorkerExecutor$WorkItemExecution.waitForCompletion(DefaultWorkerExecutor.java:287)

@@ -1,0 +1,463 @@
+﻿
+  test_results.txt:17
+:00:01 +7: A:/fluter/
+audio_studio/test/uni
+t/debate_engine_test.
+dart: DebateEngine 
+Tests Two personas, 
+2 rounds should 
+produce correct 
+message count
+  test_results.txt:18
+:00:01 +8: A:/fluter/
+audio_studio/test/uni
+t/debate_engine_test.
+dart: DebateEngine 
+Tests Two personas, 
+2 rounds should 
+produce correct 
+message count
+  test_results.txt:19
+:00:01 +9: A:/fluter/
+audio_studio/test/uni
+t/debate_engine_test.
+dart: DebateEngine 
+Tests Two personas, 
+2 rounds should 
+produce correct 
+message count
+  test_results.txt:20
+:00:01 +9 -1: A:/flut
+er/audio_studio/test/
+unit/persona_engine_t
+est.dart: Persona 
+Engine Tests Should 
+handle empty input 
+gracefully
+  test_results.txt:21
+:00:01 +9 -1: A:/flut
+er/audio_studio/test/
+unit/debate_engine_te
+st.dart: 
+DebateEngine Tests 
+Two personas, 2 
+rounds should 
+produce correct 
+message count [E]
+> 
+test_results.txt:22: 
+ Expected: <6>
+  
+test_results.txt:23: 
+   Actual: <4>
+  
+test_results.txt:24: 
+ 
+  
+test_results.txt:25: 
+ package:matcher     
+                     
+           expect
+  
+test_results.txt:26: 
+ package:flutter_test
+/src/widget_tester.da
+rt 473:18  expect
+  
+test_results.txt:27: 
+ test\unit\debate_eng
+ine_test.dart 42:7   
+           
+main.<fn>.<fn>
+  test_results.txt:32
+:00:01 +13 -1: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:33
+:00:01 +14 -1: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:34
+:00:01 +15 -1: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:35
+:00:01 +15 -2: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:36
+:00:01 +15 -2: A:/flu
+ter/audio_studio/test
+/unit/text_summarizer
+_test.dart: 
+TextSummarizer Tests 
+Should give higher 
+priority to 
+keyword-heavy 
+sentences [E]
+> 
+test_results.txt:37: 
+ Expected: <true>
+  
+test_results.txt:38: 
+   Actual: <false>
+  
+test_results.txt:39: 
+ 
+  
+test_results.txt:40: 
+ package:matcher     
+                     
+           expect
+  
+test_results.txt:41: 
+ package:flutter_test
+/src/widget_tester.da
+rt 473:18  expect
+  
+test_results.txt:42: 
+ test\unit\text_summa
+rizer_test.dart 44:7 
+           
+main.<fn>.<fn>
+  
+test_results.txt:43: 
+ 
+  test_results.txt:44
+:00:01 +15 -3: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:45
+:00:01 +15 -3: A:/flu
+ter/audio_studio/test
+/unit/text_summarizer
+_test.dart: 
+TextSummarizer Tests 
+Should preserve 
+sentence order of 
+the selected 
+sentences [E]
+> 
+test_results.txt:46: 
+ Expected: a value 
+greater than <116>
+  
+test_results.txt:47: 
+   Actual: <-1>
+  
+test_results.txt:48: 
+    Which: is not a 
+value greater than 
+<116>
+  
+test_results.txt:49: 
+ 
+  
+test_results.txt:50: 
+ package:matcher     
+                     
+           expect
+  
+test_results.txt:51: 
+ package:flutter_test
+/src/widget_tester.da
+rt 473:18  expect
+  
+test_results.txt:52: 
+ test\unit\text_summa
+rizer_test.dart 67:9 
+           
+main.<fn>.<fn>
+  
+test_results.txt:53: 
+ 
+  test_results.txt:54
+:00:01 +15 -4: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:55
+:00:01 +15 -4: A:/flu
+ter/audio_studio/test
+/unit/text_summarizer
+_test.dart: 
+TextSummarizer Tests 
+Should handle mixed 
+punctuation and 
+formatting [E]
+> 
+test_results.txt:56: 
+ Expected: <true>
+  
+test_results.txt:57: 
+   Actual: <false>
+  
+test_results.txt:58: 
+ 
+  
+test_results.txt:59: 
+ package:matcher     
+                     
+           expect
+  
+test_results.txt:60: 
+ package:flutter_test
+/src/widget_tester.da
+rt 473:18  expect
+  
+test_results.txt:61: 
+ test\unit\text_summa
+rizer_test.dart 78:7 
+           
+main.<fn>.<fn>
+  
+test_results.txt:62: 
+ 
+  test_results.txt:63
+:00:01 +16 -4: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:64
+:00:01 +17 -4: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:65
+:00:01 +17 -5: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:66
+:00:01 +17 -5: A:/flu
+ter/audio_studio/test
+/unit/persona_engine_
+test.dart: Persona 
+Engine Tests 
+Philosophical 
+persona should have 
+correct tone and 
+keywords [E]
+> 
+test_results.txt:67: 
+ Expected: contains 
+'philosophical'
+  
+test_results.txt:68: 
+   Actual: '≡ƒºÿ 
+Marcus: Consider 
+meaning carefully. 
+It is not merely 
+about facts, but 
+about the underlying 
+truth. What truly 
+matters is the 
+abstract principle 
+of existence and 
+purpose. Your 
+inquiry reveals a 
+deeper curiosity.'
+  
+test_results.txt:69: 
+    Which: does not 
+contain 
+'philosophical'
+  
+test_results.txt:70: 
+ 
+  
+test_results.txt:71: 
+ package:matcher     
+                     
+           expect
+  
+test_results.txt:72: 
+ package:flutter_test
+/src/widget_tester.da
+rt 473:18  expect
+  test_results.txt:87
+:AppConfig.aiMode: 
+AiMode.remote
+  test_results.txt:88
+:Response: [Remote 
+AI Stub] This would 
+call a real LLM for 
+summarization in 
+production.
+  test_results.txt:89
+:00:02 +20 -5: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:90
+:00:02 +20 -6: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:91
+:00:02 +20 -6: A:/flu
+ter/audio_studio/test
+/unit/debate_engine_t
+est.dart: 
+DebateEngine Tests 
+Three personas, 1 
+round should follow 
+correct order [E]
+> 
+test_results.txt:92: 
+ Expected: <5>
+  
+test_results.txt:93: 
+   Actual: <3>
+  
+test_results.txt:94: 
+ 
+  
+test_results.txt:95: 
+ package:matcher     
+                     
+           expect
+  
+test_results.txt:96: 
+ package:flutter_test
+/src/widget_tester.da
+rt 473:18  expect
+  
+test_results.txt:97: 
+ test\unit\debate_eng
+ine_test.dart 103:7  
+           
+main.<fn>.<fn>
+  
+test_results.txt:98: 
+ 
+  test_results.txt:99
+:00:02 +20 -7: A:/flu
+ter/audio_studio/test
+/unit/stress_test.dar
+t: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:10
+0:00:02 +20 -7: A:/fl
+uter/audio_studio/tes
+t/unit/persona_engine
+_test.dart: Persona 
+Engine Tests 
+Analytical persona 
+should be elaborate 
+[E]
+> test_results.txt:10
+1:  Expected: 
+contains 'solar'
+  test_results.txt:10
+2:    Actual: '≡ƒûû 
+Spock: From a 
+logical perspective, 
+efficiency presents 
+several variables. 
+The key factor here 
+is the systematic 
+reasoning and 
+empirical evidence 
+supporting the 
+claim. We must look 
+deeper into the 
+nuances. The 
+complexity of the 
+situation demands 
+our full attention. 
+Consider how this 
+affects the broader 
+context. It is 
+essential to remain 
+objective throughout 
+this process.'
+  test_results.txt:10
+3:     Which: does 
+not contain 'solar'
+  test_results.txt:10
+4:  
+  test_results.txt:10
+5:  package:matcher  
+                     
+              expect
+  test_results.txt:10
+6:  package:flutter_t
+est/src/widget_tester
+.dart 473:18  expect
+  test_results.txt:10
+8:  
+  test_results.txt:10
+9:00:03 +21 -7: A:/fl
+uter/audio_studio/tes
+t/unit/stress_test.da
+rt: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:11
+0:00:04 +22 -7: A:/fl
+uter/audio_studio/tes
+t/unit/stress_test.da
+rt: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test
+  test_results.txt:11
+1:20 rounds debate 
+duration: 10045ms
+  test_results.txt:11
+2:00:11 +22 -8: A:/fl
+uter/audio_studio/tes
+t/unit/stress_test.da
+rt: Stage 5 Stress 
+Tests 20 debate 
+rounds stress test 
+[E]
+> test_results.txt:11
+3:  Expected: <20>
+  test_results.txt:11
+4:    Actual: <22>
+  test_results.txt:11
+5:  
+  test_results.txt:11
+6:  package:matcher  
+                     
+              expect
+  test_results.txt:11
+7:  package:flutter_t
+est/src/widget_tester
+.dart 473:18  expect
+  test_results.txt:11
+8:  test\unit\stress_
+test.dart 53:7       
+              
+main.<fn>.<fn>
+
+

@@ -1,0 +1,80 @@
+[2740] [        ] C/C++: no libraries
+[2741] [        ] Resolve mutations for :app:configureCMakeDebug[armeabi-v7a] (Thread[Execution worker,5,main]) started.
+[2742] [        ] :app:configureCMakeDebug[armeabi-v7a] (Thread[Execution worker,5,main]) started.
+[2743] [ +190 ms] > Task :app:configureCMakeDebug[armeabi-v7a]
+[2744] [        ] Caching disabled for task ':app:configureCMakeDebug[armeabi-v7a]' because:
+[2745] [        ]   Build cache is disabled
+[2746] [        ]   Caching has been disabled for the task
+[2747] [        ] Task ':app:configureCMakeDebug[armeabi-v7a]' is not up-to-date because:
+[2748] [        ]   Task.upToDateWhen is false.
+[2749] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|armeabi-v7a : Start JSON generation. Platform version: 24 min SDK version: armeabi-v7a
+[2750] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|armeabi-v7a : JSON 'A:\fluter\audio_studio\build\.cxx\debug\56111c1l\armeabi-v7a\android_gradle_build.json' was up-to-date
+[2751] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|armeabi-v7a : JSON generation completed without problems
+[2752] [        ] C/C++: C:\Users\ashil\Downloads\flutter_windows_3.27.4-stable\flutter\packages\flutter_tools\gradle\src\main\scripts\CMakeLists.txt debug|armeabi-v7a : Writing build model to A:\fluter\audio_studio\build\app\intermediates\cxx\debug\56111c1l\logs\armeabi-v7a\build_model.json
+[2753] [        ] Resolve mutations for :app:buildCMakeDebug[armeabi-v7a] (Thread[Execution worker,5,main]) started.
+[2754] [        ] :app:buildCMakeDebug[armeabi-v7a] (Thread[Execution worker,5,main]) started.
+[2755] [        ] > Task :app:buildCMakeDebug[armeabi-v7a]
+[2756] [        ] Caching disabled for task ':app:buildCMakeDebug[armeabi-v7a]' because:
+[2757] [        ]   Build cache is disabled
+[2758] [        ]   Caching has been disabled for the task
+[2759] [        ] Task ':app:buildCMakeDebug[armeabi-v7a]' is not up-to-date because:
+[2760] [        ]   Task.upToDateWhen is false.
+[2761] [        ] C/C++: starting build
+[2762] [        ] C/C++: reading expected JSONs
+[2763] [        ] C/C++: done reading expected JSONs
+[2764] [        ] C/C++: executing build commands for targets that produce .so files or executables
+[2765] [        ] C/C++: evaluate miniconfig
+[2766] [        ] C/C++: no libraries
+[2767] [        ] Resolve mutations for :app:configureCMakeDebug[x86_64] (Thread[Execution worker,5,main]) started.
+[2768] [        ] :app:configureCMakeDebug[x86_64] (Thread[Execution worker,5,main]) started.
+[2769] [ +106 ms] > Task :speech_to_text:compileDebugKotlin FAILED
+[2770] [        ] Adding -Xuse-inline-scopes-numbers Kotlin compiler flag for task :speech_to_text:compileDebugAndroidTestKotlin
+[2771] [        ] Caching disabled for task ':speech_to_text:compileDebugKotlin' because:
+[2772] [        ]   Build cache is disabled
+[2773] [        ] Task ':speech_to_text:compileDebugKotlin' is not up-to-date because:
+[2774] [        ]   Task has failed previously.
+[2775] [        ] The input changes require a full rebuild for incremental task ':speech_to_text:compileDebugKotlin'.
+[2776] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2777] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2778] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2779] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2780] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2781] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2782] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2783] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2784] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2785] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2786] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2787] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2788] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2789] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2790] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2791] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2792] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2793] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2794] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2795] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2796] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2797] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2798] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2799] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2800] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2801] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2802] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2803] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2804] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2805] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2806] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2807] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2808] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2809] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2810] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2811] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\kotlin', not found
+[2812] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2813] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2814] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2815] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\java', not found
+[2816] [        ] file or directory 'C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\debug\java', not found
+[2817] [        ] Kotlin source files: C:\Users\ashil\AppData\Local\Pub\Cache\hosted\pub.dev\speech_to_text-6.6.2\android\src\main\kotlin\com\csdcorp\speech_to_text\SpeechToTextPlugin.kt
+[2818] [        ] Java source files:
+[2819] [        ] Script source files:

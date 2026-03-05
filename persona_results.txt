@@ -1,0 +1,26 @@
+﻿00:00 +0: loading A:/fluter/audio_studio/test/unit/persona_engine_test.dart
+00:00 +0: Persona Engine Tests Should handle empty input gracefully
+00:00 +1: Persona Engine Tests Philosophical persona should have correct tone and keywords
+00:01 +1 -1: Persona Engine Tests Philosophical persona should have correct tone and keywords [E]
+  Expected: contains 'philosophical'
+    Actual: '≡ƒºÿ Marcus: Consider meaning carefully. It is not merely about facts, but about the underlying truth. What truly matters is the abstract principle of existence and purpose. Your inquiry reveals a deeper curiosity.'
+     Which: does not contain 'philosophical'
+  
+  package:matcher                                     expect
+  package:flutter_test/src/widget_tester.dart 473:18  expect
+  test\unit\persona_engine_test.dart 55:7             main.<fn>.<fn>
+  
+00:01 +1 -1: Persona Engine Tests Motivational persona should be short and high energy
+00:01 +2 -1: Persona Engine Tests Analytical persona should be elaborate
+00:02 +2 -2: Persona Engine Tests Analytical persona should be elaborate [E]
+  Expected: contains 'solar'
+    Actual: '≡ƒûû Spock: From a logical perspective, efficiency presents several variables. The key factor here is the systematic reasoning and empirical evidence supporting the claim. We must look deeper into the nuances. The complexity of the situation demands our full attention. Consider how this affects the broader context. It is essential to remain objective throughout this process.'
+     Which: does not contain 'solar'
+  
+  package:matcher                                     expect
+  package:flutter_test/src/widget_tester.dart 473:18  expect
+  test\unit\persona_engine_test.dart 78:7             main.<fn>.<fn>
+  
+00:02 +2 -2: Persona Engine Tests Output should be deterministic (same input produces same output)
+00:03 +3 -2: Persona Engine Tests Intent detection: Question should add specific sentence
+00:03 +4 -2: Some tests failed.
